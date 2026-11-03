@@ -28,6 +28,6 @@ L'API respecte le principe de séparation des préoccupations (Clean Architectur
 
 1. **Cloner le dépôt :**
    ```bash
-   git clone https://github.com/AdamaSANE/agri-market-api-sn.git https://github.com/AdamaSANE/agri-market-api-sn.git
+   git clone https://github.com/AdamaSANE/agri-market-api-sn.git
    cd agri-market-api-sn
    ```
